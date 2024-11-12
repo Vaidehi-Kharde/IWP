@@ -1,0 +1,74 @@
+[
+    {
+        "destination": "Paris, France",
+        "days": 3,
+        "price": 50000,
+        "url": "https://plus.unsplash.com/premium_photo-1661919210043-fd847a58522d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGFyaXN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "destination": "Paris, France",
+        "days": 5,
+        "price": 75000,
+        "url": "https://plus.unsplash.com/premium_photo-1661919210043-fd847a58522d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGFyaXN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "destination": "Paris, France",
+        "days": 7,
+        "price": 100000,
+        "url": "https://plus.unsplash.com/premium_photo-1661919210043-fd847a58522d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGFyaXN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "destination": "New York City, USA",
+        "days": 4,
+        "price": 60000,
+        "url": "https://explorenewyork.com/deals"
+    },
+    {
+        "destination": "New York City, USA",
+        "days": 6,
+        "price": 90000,
+        "url": "https://explorenewyork.com/deals"
+    },
+    {
+        "destination": "New York City, USA",
+        "days": 8,
+        "price": 120000,
+        "url": "https://explorenewyork.com/deals"
+    },
+    {
+        "destination": "Tokyo, Japan",
+        "days": 5,
+        "price": 80000,
+        "url": "https://discoverjapan.com/tokyo-packages"
+    },
+    {
+        "destination": "Tokyo, Japan",
+        "days": 7,
+        "price": 110000,
+        "url": "https://discoverjapan.com/tokyo-packages"
+    },
+    {
+        "destination": "Tokyo, Japan",
+        "days": 10,
+        "price": 150000,
+        "url": "https://discoverjapan.com/tokyo-packages"
+    },
+    {
+        "destination": "Rome, Italy",
+        "days": 3,
+        "price": 55000,
+        "url": "https://discoveritaly.com/rome-travel"
+    },
+    {
+        "destination": "Rome, Italy",
+        "days": 5,
+        "price": 85000,
+        "url": "https://discoveritaly.com/rome-travel"
+    },
+    {
+        "destination": "Rome",
+        "days": 7,
+        "price": 115000,
+        "url": "https://discoveritaly.com/rome-travel"
+    }
+]

@@ -1,0 +1,159 @@
+[
+    {
+      "destination_name": "Paris, France",
+      "destination_image": "https://plus.unsplash.com/premium_photo-1661919210043-fd847a58522d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGFyaXN8ZW58MHx8MHx8fDA%3D",
+      "days": 7,
+      "price": 54000
+    },
+    {
+      "destination_name": "Tokyo, Japan",
+      "destination_image": "https://images.squarespace-cdn.com/content/v1/5bbcf00a9b8fe874ed2f03d0/1599184835862-QUEZ741IHO7A8U1QP8AI/Shinjuku+Tokyo+Japan+at+night",
+      "days": 10,
+      "price": 52000
+    },
+    {
+      "destination_name": "New York City, USA",
+      "destination_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG0dkmx_KcDPI6lE9polttSsItCstVkeYq1w&s",
+      "days": 5,
+      "price": 58000
+    },
+    {
+      "destination_name": "Sydney, Australia",
+      "destination_image": "https://images.unsplash.com/photo-1524562865630-b991c6c2f261?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c3lkbmV5fGVufDB8fDB8fHww",
+      "days": 8,
+      "price": 55000
+    },
+    {
+      "destination_name": "London, UK",
+      "destination_image": "https://media.istockphoto.com/id/477692929/photo/london-landmarks.webp?a=1&b=1&s=612x612&w=0&k=20&c=m6RO2Wd-jQ2mZ5XMbuUYHZiiMH-mhdvltufcGy293qI=",
+      "days": 6,
+      "price": 51000
+    },
+    {
+      "destination_name": "Dubai, UAE",
+      "destination_image": "https://www.istockphoto.com/photo/the-palm-island-panorama-with-dubai-marina-in-the-background-aerial-gm1154761064-314128793?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fdubai&utm_medium=affiliate&utm_source=unsplash&utm_term=dubai%3A%3Aaffiliate-collections%3Aa",
+      "days": 9,
+      "price": 57000
+    },
+    {
+      "destination_name": "Rome, Italy",
+      "destination_image": "https://www.istockphoto.com/photo/colosseum-in-rome-and-morning-sun-italy-gm1094564176-293773356?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Frome&utm_medium=affiliate&utm_source=unsplash&utm_term=rome%3A%3Aaffiliate-collections%3Aa",
+      "days": 11,
+      "price": 53000
+    },
+    {
+      "destination_name": "Barcelona, Spain",
+      "destination_image": "https://www.istockphoto.com/photo/spanish-cities-the-sacred-barcelona-family-gm1301579230-393581199?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fbarcelona&utm_medium=affiliate&utm_source=unsplash&utm_term=barcelona%3A%3Aaffiliate-collections%3Aa",
+      "days": 6,
+      "price": 56000
+    },
+    {
+      "destination_name": "Bali, Indonesia",
+      "destination_image": "https://www.istockphoto.com/photo/tanah-lot-hindu-temple-in-bali-at-sunset-gm1445548285-483924283?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fbali&utm_medium=affiliate&utm_source=unsplash&utm_term=bali%3A%3Aaffiliate-collections%3Aa",
+      "days": 12,
+      "price": 59000
+    },
+    {
+      "destination_name": "Cape Town, South Africa",
+      "destination_image": "https://www.istockphoto.com/photo/table-mountain-cape-town-south-africa-gm482989593-32363384?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcape-town&utm_medium=affiliate&utm_source=unsplash&utm_term=cape+town%3A%3Aaffiliate-collections%3Aa",
+      "days": 7,
+      "price": 55000
+    },
+    {
+      "destination_name": "Santorini, Greece",
+      "destination_image": "https://www.istockphoto.com/photo/santorini-sunset-at-dawn-village-of-oia-greece-gm510967662-86470317?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fsantorini&utm_medium=affiliate&utm_source=unsplash&utm_term=santorini%3A%3Aaffiliate-collections%3Aa",
+      "days": 10,
+      "price": 54000
+    },
+    {
+      "destination_name": "Maldives",
+      "destination_image": "https://www.istockphoto.com/photo/aerial-view-of-luxury-resort-in-maldives-gm1406869055-458258220?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fmaldives&utm_medium=affiliate&utm_source=unsplash&utm_term=maldives%3A%3Aaffiliate-collections%3Aa",
+      "days": 14,
+      "price": 57000
+    },
+    {
+      "destination_name": "Istanbul, Turkey",
+      "destination_image": "https://media.istockphoto.com/id/458012057/photo/istanbul-turkey.webp?a=1&b=1&s=612x612&w=0&k=20&c=ofu-qq9ShjpwnChsSyizYe6pWgbKiywq-0K5kmXgN0k=",
+      "days": 4,
+      "price": 58000
+    },
+    {
+      "destination_name": "Maui, Hawaii",
+      "destination_image": "https://www.istockphoto.com/photo/maui-coastline-hawaii-islands-gm165863613-16926115?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2FMaui&utm_medium=affiliate&utm_source=unsplash&utm_term=Maui%3A%3Aaffiliate-collections%3Aa",
+      "days": 5,
+      "price": 54000
+    },
+    {
+      "destination_name": "Banff, Canada",
+      "destination_image": "https://www.istockphoto.com/photo/bow-river-castle-mountain-banff-national-park-canada-wildflowers-copyspace-gm154956337-16237618?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fbanff&utm_medium=affiliate&utm_source=unsplash&utm_term=banff%3A%3Aaffiliate-collections%3Aa",
+      "days": 8,
+      "price": 55000
+    },
+    {
+      "destination_name": "Kyoto, Japan",
+      "destination_image": "https://media.istockphoto.com/id/1140986887/photo/woman-kimono-and-umbrella-in-arashiyama-bamboo-forest-kyoto-japan.webp?a=1&b=1&s=612x612&w=0&k=20&c=0A3y_Yhq3mXchuCvkjXjOFHY75TKlXy_gD__7r2Nv6I=",
+      "days": 10,
+      "price": 57000
+    },
+    {
+      "destination_name": "Seoul, South Korea",
+      "destination_image": "https://www.istockphoto.com/photo/cityscape-songpagu-skyscrapers-lotte-world-tower-at-night-seoul-gm613254398-105842387?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fseoul&utm_medium=affiliate&utm_source=unsplash&utm_term=seoul%3A%3Aaffiliate-collections%3Aa",
+      "days": 7,
+      "price": 52000
+    },
+    {
+      "destination_name": "Vienna, Austria",
+      "destination_image": "https://images.unsplash.com/photo-1516550893923-42d28e5677af?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Vmllbm5hfGVufDB8fDB8fHww",
+      "days": 6,
+      "price": 59000
+    },
+    {
+      "destination_name": "Lisbon, Portugal",
+      "destination_image": "https://images.unsplash.com/photo-1525207934214-58e69a8f8a3e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TGlzYm9ufGVufDB8fDB8fHww",
+      "days": 11,
+      "price": 51000
+    },
+    {
+      "destination_name": "Amsterdam, Netherlands",
+      "destination_image": "https://www.istockphoto.com/photo/panoramic-view-of-the-historic-city-center-of-amsterdam-traditional-houses-and-gm1399407952-453286212?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Famsterdam&utm_medium=affiliate&utm_source=unsplash&utm_term=amsterdam%3A%3Aaffiliate-collections%3Aa",
+      "days": 4,
+      "price": 55000
+    },
+    {
+      "destination_name": "Rio de Janeiro, Brazil",
+      "destination_image": "https://www.istockphoto.com/photo/sao-conrado-aerial-view-gm1125317467-295771049?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Frio-de-janeiro&utm_medium=affiliate&utm_source=unsplash&utm_term=rio+de+janeiro%3A%3Aaffiliate-collections%3Aa",
+      "days": 9,
+      "price": 53000
+    },
+    {
+      "destination_name": "Los Angeles, USA",
+      "destination_image": "https://www.istockphoto.com/photo/traffic-in-downtown-los-angeles-california-gm913327824-251414294?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2FLos-Angeles&utm_medium=affiliate&utm_source=unsplash&utm_term=Los+Angeles%3A%3Aaffiliate-collections%3Aa",
+      "days": 6,
+      "price": 56000
+    },
+    {
+      "destination_name": "Zurich, Switzerland",
+      "destination_image": "https://www.istockphoto.com/photo/zurich-cityscape-switzerland-gm459401895-31955840?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2FZurich&utm_medium=affiliate&utm_source=unsplash&utm_term=Zurich%3A%3Aaffiliate-collections%3Aa",
+      "days": 12,
+      "price": 54000
+    },
+    {
+      "destination_name": "Singapore",
+      "destination_image": "https://media.istockphoto.com/id/502058307/photo/singapore-city-skyline-at-sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=w-Y5Sztk3it52DypS-k5dczJFTI-xASrP1NSRRlYndQ=",
+      "days": 10,
+      "price": 52000
+    },
+    {
+      "destination_name": "Prague, Czech Republic",
+      "destination_image": "https://www.istockphoto.com/photo/winter-in-prague-gm489951148-74954251?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fprague&utm_medium=affiliate&utm_source=unsplash&utm_term=prague%3A%3Aaffiliate-collections%3Aa",
+      "days": 7,
+      "price": 58000
+    },
+    {
+      "destination_name": "Venice, Italy",
+      "destination_image": "https://media.istockphoto.com/id/911570904/photo/view-of-venices-grand-canal.webp?a=1&b=1&s=612x612&w=0&k=20&c=JKgltRdcvC-l6j88GlbyNz7ikY38P0zNJHrWhU3sHlQ=",
+      "days": 5,
+      "price": 51000
+    }
+  ]
+  

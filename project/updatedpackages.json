@@ -1,0 +1,752 @@
+[
+  {
+    "destination_name": "Santorini, Greece",
+    "destination_image": "https://plus.unsplash.com/premium_photo-1661964149725-fbf14eabd38c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "days": 10,
+    "price": 54000,
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    },
+    "description": "Greece, officially the Hellenic Republic, is a country in Southeast Europe. Located on the southern tip of the Balkan peninsula, Greece shares land borders with Albania to the northwest, North Macedonia and Bulgaria to the north, and Turkey to the east. The Aegean Sea lies to the east of the mainland, the Ionian Sea to the west, and the Sea of Crete and the Mediterranean Sea to the south. Greece has the longest coastline on the Mediterranean Basin, featuring thousands of islands. The country comprises nine traditional geographic regions, and has a population of over 10.4 million. Athens is the nation's capital and largest city, followed by Thessaloniki and Patras."
+  },
+  {
+    "destination_name": "Santorini, Greece",
+    "destination_image": "https://plus.unsplash.com/premium_photo-1661964149725-fbf14eabd38c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "days": 10,
+    "price": 54000,
+    "start_day": {
+      "$date": "2024-11-10T18:30:00.000Z"
+    },
+    "description": "Greece, officially the Hellenic Republic, is a country in Southeast Europe. Located on the southern tip of the Balkan peninsula, Greece shares land borders with Albania to the northwest, North Macedonia and Bulgaria to the north, and Turkey to the east. The Aegean Sea lies to the east of the mainland, the Ionian Sea to the west, and the Sea of Crete and the Mediterranean Sea to the south. Greece has the longest coastline on the Mediterranean Basin, featuring thousands of islands. The country comprises nine traditional geographic regions, and has a population of over 10.4 million. Athens is the nation's capital and largest city, followed by Thessaloniki and Patras."
+  },
+  {
+    "destination_name": "Barcelona, Spain",
+    "destination_image": "https://images.unsplash.com/photo-1464790719320-516ecd75af6c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFyY2Vsb25hfGVufDB8fDB8fHww",
+    "days": 6,
+    "price": 56000,
+    "description": "Barcelona is a vibrant city known for its unique architecture, rich history, and lively atmosphere. Explore the stunning Sagrada Familia, wander through the Gothic Quarter, and relax on the beautiful beaches. Don't miss the vibrant markets, delicious tapas, and the artistic heritage left by Antoni Gaudí. Experience the energetic nightlife and cultural events that make Barcelona a must-visit destination.",
+    "start_day": {
+      "$date": "2024-12-12T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Maldives",
+    "destination_image": "https://media.istockphoto.com/id/1348963437/photo/foot-path-to-jetty.jpg?s=1024x1024&w=is&k=20&c=dOF_XGVk3S8M1gHbCXQ7l05-5FqMlgsV2XCtNTLAjqc=",
+    "days": 14,
+    "price": 57000,
+    "description": "The Maldives is a tropical paradise known for its stunning white-sand beaches, crystal-clear waters, and vibrant coral reefs. It's the perfect destination for relaxation, adventure, and romance. Enjoy luxury resorts, indulge in water sports like snorkeling and diving, and explore the unique marine life. Experience sunset dinners on the beach and the tranquility that comes with this idyllic getaway.",
+    "start_day": {
+      "$date": "2024-12-15T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Kyoto, Japan",
+    "destination_image": "https://media.istockphoto.com/id/1140986887/photo/woman-kimono-and-umbrella-in-arashiyama-bamboo-forest-kyoto-japan.webp?a=1&b=1&s=612x612&w=0&k=20&c=0A3y_Yhq3mXchuCvkjXjOFHY75TKlXy_gD__7r2Nv6I=",
+    "days": 10,
+    "price": 57000,
+    "description": "Kyoto, the cultural capital of Japan, is renowned for its classical Buddhist temples, as well as gardens, imperial palaces, and traditional wooden houses. Discover the Arashiyama Bamboo Grove, visit the iconic Kinkaku-ji (Golden Pavilion), and experience a traditional tea ceremony. Kyoto is also famous for its cherry blossoms in spring and colorful foliage in autumn, making it a breathtaking destination year-round.",
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Vienna, Austria",
+    "destination_image": "https://images.unsplash.com/photo-1516550893923-42d28e5677af?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Vmllbm5hfGVufDB8fDB8fHww",
+    "days": 6,
+    "price": 59000,
+    "description": "Vienna is a city steeped in history and culture, known for its imperial palaces, elegant coffee houses, and classical music heritage. Explore the grand Schönbrunn Palace, visit the historic St. Stephen's Cathedral, and immerse yourself in the city's rich arts scene, including opera and museums. Savor a slice of Sachertorte in a traditional café and enjoy the vibrant atmosphere of this enchanting city.",
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Lisbon, Portugal",
+    "destination_image": "https://images.unsplash.com/photo-1525207934214-58e69a8f8a3e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TGlzYm9ufGVufDB8fDB8fHww",
+    "days": 11,
+    "price": 51000,
+    "description": "Lisbon is a captivating city that offers a unique blend of tradition and modernity. Known for its colorful neighborhoods, historic tram system, and stunning viewpoints, Lisbon invites you to explore the charming Alfama district, indulge in delicious pastéis de nata, and experience the vibrant nightlife in Bairro Alto. With its rich maritime history, beautiful architecture, and friendly locals, Lisbon is a destination not to be missed.",
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Rio de Janeiro, Brazil",
+    "destination_image": "https://media.istockphoto.com/id/913075602/photo/sugarloaf-mountain-in-rio-de-janeiro-brazil.jpg?s=2048x2048&w=is&k=20&c=l8ao5SVGpEwX7tpXZMcFaPuUTyYXeelPtR5poOLZlwo=",
+    "days": 9,
+    "price": 53000,
+    "description": "Rio de Janeiro is a vibrant city famous for its stunning beaches, lush mountains, and lively culture. Experience the iconic Christ the Redeemer statue, relax on Copacabana and Ipanema beaches, and immerse yourself in the festive atmosphere during Carnaval. Explore the breathtaking views from Sugarloaf Mountain, enjoy samba music, and savor delicious Brazilian cuisine in this energetic city.",
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Amsterdam, Netherlands",
+    "destination_image": "https://media.istockphoto.com/id/1399407952/photo/panoramic-view-of-the-historic-city-center-of-amsterdam-traditional-houses-and-bridges-of.jpg?s=2048x2048&w=is&k=20&c=wsrYIiqoQJo6z3jA2M3XT2X9kV7inLu7igTfA8-SnvU=",
+    "days": 4,
+    "price": 55000,
+    "description": "Amsterdam is known for its picturesque canals, historic architecture, and vibrant arts scene. Explore the world-class museums, including the Rijksmuseum and Van Gogh Museum, stroll through the charming streets, and enjoy a bike ride along the canals. Experience the unique culture, cozy cafés, and vibrant nightlife that make Amsterdam a favorite destination for travelers.",
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Los Angeles, USA",
+    "destination_image": "https://media.istockphoto.com/id/913327824/photo/traffic-in-downtown-los-angeles-california.jpg?s=2048x2048&w=is&k=20&c=EQEbRxNel_3OMbcXtY-PmsgMiWUUtGn6RAJjHfvC4tA=",
+    "days": 6,
+    "price": 56000,
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    },
+    "description": "Explore the iconic city of Los Angeles with visits to Hollywood, Universal Studios, and Venice Beach. A perfect mix of entertainment and relaxation."
+  },
+  {
+    "destination_name": "Zurich, Switzerland",
+    "destination_image": "https://media.istockphoto.com/id/888221664/photo/downtown-waterfront-in-zurich-switzerland.jpg?s=2048x2048&w=is&k=20&c=qNYCXNMSUSq3N3QG4W39OzT2RzM5mT81IXSPEakyLQ0=",
+    "days": 12,
+    "price": 54000,
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    },
+    "description": "Discover the beauty of Zurich, with its pristine lakes, historical sites, and vibrant culture. Enjoy breathtaking views of the Swiss Alps."
+  },
+  {
+    "destination_name": "Banff, Canada",
+    "destination_image": "https://media.istockphoto.com/id/154956337/photo/bow-river-castle-mountain-banff-national-park-canada-wildflowers-copyspace.jpg?s=2048x2048&w=is&k=20&c=CNPZYB_i220jb56dpJ4NRlTn9cMmfFd4IiOhZbzQIy4=",
+    "days": 8,
+    "price": 55000,
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    },
+    "description": "Experience the natural beauty of Banff National Park with stunning mountains, crystal-clear lakes, and a rich variety of wildlife."
+  },
+  {
+    "destination_name": "Istanbul, Turkey",
+    "destination_image": "https://media.istockphoto.com/id/458012057/photo/istanbul-turkey.webp?a=1&b=1&s=612x612&w=0&k=20&c=ofu-qq9ShjpwnChsSyizYe6pWgbKiywq-0K5kmXgN0k=",
+    "days": 4,
+    "price": 58000,
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    },
+    "description": "Immerse yourself in Istanbul's rich history with visits to the Blue Mosque, Hagia Sophia, and bustling bazaars. Discover a unique blend of cultures."
+  },
+  {
+    "destination_name": "Bali, Indonesia",
+    "destination_image": "https://media.istockphoto.com/id/1445548285/photo/tanah-lot-hindu-temple-in-bali-at-sunset.jpg?s=2048x2048&w=is&k=20&c=vkRfzhLVWSjO5TNJAE5SLAmf0Yq_x6NhS4XWefdgk3Y=",
+    "days": 12,
+    "price": 59000,
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    },
+    "description": "Relax in Bali with its beautiful beaches, stunning temples, and lush greenery. Perfect for a mix of adventure, relaxation, and culture."
+  },
+  {
+    "destination_name": "Sydney, Australia",
+    "destination_image": "https://images.unsplash.com/photo-1524562865630-b991c6c2f261?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c3lkbmV5fGVufDB8fDB8fHww",
+    "days": 8,
+    "price": 55000,
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    },
+    "description": "Discover the stunning city of Sydney with its iconic Opera House, vibrant harbor, and stunning beaches. A perfect balance of urban and nature."
+  },
+  {
+    "destination_name": "New York City, USA",
+    "destination_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG0dkmx_KcDPI6lE9polttSsItCstVkeYq1w&s",
+    "days": 5,
+    "price": 58000,
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    },
+    "description": "Explore the vibrant city of New York, visiting Times Square, Central Park, and the Statue of Liberty. The city that never sleeps awaits you."
+  },
+  {
+    "destination_name": "Dubai, UAE",
+    "destination_image": "https://media.istockphoto.com/id/183371461/photo/city-lights-in-dubai-at-sunset.jpg?s=2048x2048&w=is&k=20&c=JsfF1EnlOm5ll7JvDudTMqiSGsHAiSUyfBBdWCNtJLI=",
+    "days": 9,
+    "price": 57000,
+    "description": "Experience the luxury and innovation of Dubai, a vibrant city known for its towering skyscrapers, luxurious shopping, and thrilling desert safaris.",
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "London, UK",
+    "destination_image": "https://media.istockphoto.com/id/477692929/photo/london-landmarks.webp?a=1&b=1&s=612x612&w=0&k=20&c=m6RO2Wd-jQ2mZ5XMbuUYHZiiMH-mhdvltufcGy293qI=",
+    "days": 6,
+    "price": 51000,
+    "description": "Discover the historic landmarks and modern marvels of London, from the iconic Tower Bridge to the bustling streets of Soho.",
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Rome, Italy",
+    "destination_image": "https://media.istockphoto.com/id/683962492/photo/sunrise-at-colosseum-rome-italy.jpg?s=2048x2048&w=is&k=20&c=jPMg6ganFwPyBRQ2a7z2TcMikF6kILY1TkKnMRcsUXA=",
+    "days": 11,
+    "price": 53000,
+    "description": "Step into history with a visit to Rome, where ancient ruins, vibrant streets, and world-renowned cuisine await.",
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Singapore",
+    "destination_image": "https://media.istockphoto.com/id/502058307/photo/singapore-city-skyline-at-sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=w-Y5Sztk3it52DypS-k5dczJFTI-xASrP1NSRRlYndQ=",
+    "days": 10,
+    "price": 52000,
+    "description": "Experience the blend of cultures in Singapore, where futuristic cityscapes meet lush green spaces and diverse culinary delights.",
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Prague, Czech Republic",
+    "destination_image": "https://media.istockphoto.com/id/628365610/photo/vltava-river-and-charles-bridge-in-prague.jpg?s=2048x2048&w=is&k=20&c=QlwRBFjWB2AEztzYgSiZ84LJzCveQQjpUoQ6_NHHxcA=",
+    "days": 7,
+    "price": 58000,
+    "description": "Explore the fairy-tale city of Prague, with its beautiful gothic architecture, charming river views, and historical Old Town.",
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Venice, Italy",
+    "destination_image": "https://media.istockphoto.com/id/911570904/photo/view-of-venices-grand-canal.webp?a=1&b=1&s=612x612&w=0&k=20&c=JKgltRdcvC-l6j88GlbyNz7ikY38P0zNJHrWhU3sHlQ=",
+    "days": 5,
+    "price": 51000,
+    "description": "Sail through the enchanting canals of Venice, where each turn reveals stunning architecture, charming alleyways, and rich history.",
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Maui, Hawaii",
+    "destination_image": "https://media.istockphoto.com/id/117146711/photo/a-tropical-beach-sunset-on-a-beautiful-day.jpg?s=2048x2048&w=is&k=20&c=w5XV8P4O4CTwxnm6GU278BeJw7TlQbLPo54kJKkumxY=",
+    "days": 5,
+    "price": 54000,
+    "description": "Relax on the stunning beaches of Maui, where scenic landscapes, warm waters, and island culture create a tropical paradise.",
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Santorini, Greece",
+    "destination_image": "https://plus.unsplash.com/premium_photo-1661964149725-fbf14eabd38c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "days": 15,
+    "price": 84000,
+    "start_day": {
+      "$date": "2025-12-10T18:30:00.000Z"
+    },
+    "description": "Greece, officially the Hellenic Republic, is a country in Southeast Europe. Located on the southern tip of the Balkan peninsula, Greece shares land borders with Albania to the northwest, North Macedonia and Bulgaria to the north, and Turkey to the east. The Aegean Sea lies to the east of the mainland, the Ionian Sea to the west, and the Sea of Crete and the Mediterranean Sea to the south. Greece has the longest coastline on the Mediterranean Basin, featuring thousands of islands. The country comprises nine traditional geographic regions, and has a population of over 10.4 million. Athens is the nation's capital and largest city, followed by Thessaloniki and Patras."
+  },
+  {
+    "destination_name": "Santorini, Greece",
+    "destination_image": "https://plus.unsplash.com/premium_photo-1661964149725-fbf14eabd38c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "days": 16,
+    "price": 104000,
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    },
+    "description": "Greece, officially the Hellenic Republic, is a country in Southeast Europe. Located on the southern tip of the Balkan peninsula, Greece shares land borders with Albania to the northwest, North Macedonia and Bulgaria to the north, and Turkey to the east. The Aegean Sea lies to the east of the mainland, the Ionian Sea to the west, and the Sea of Crete and the Mediterranean Sea to the south. Greece has the longest coastline on the Mediterranean Basin, featuring thousands of islands. The country comprises nine traditional geographic regions, and has a population of over 10.4 million. Athens is the nation's capital and largest city, followed by Thessaloniki and Patras."
+  },
+  {
+    "destination_name": "Barcelona, Spain",
+    "destination_image": "https://images.unsplash.com/photo-1464790719320-516ecd75af6c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFyY2Vsb25hfGVufDB8fDB8fHww",
+    "days": 6,
+    "price": 56000,
+    "description": "Barcelona is a vibrant city known for its unique architecture, rich history, and lively atmosphere. Explore the stunning Sagrada Familia, wander through the Gothic Quarter, and relax on the beautiful beaches. Don't miss the vibrant markets, delicious tapas, and the artistic heritage left by Antoni Gaudí. Experience the energetic nightlife and cultural events that make Barcelona a must-visit destination.",
+    "start_day": {
+      "$date": "2025-12-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Maldives",
+    "destination_image": "https://media.istockphoto.com/id/1348963437/photo/foot-path-to-jetty.jpg?s=1024x1024&w=is&k=20&c=dOF_XGVk3S8M1gHbCXQ7l05-5FqMlgsV2XCtNTLAjqc=",
+    "days": 14,
+    "price": 57000,
+    "description": "The Maldives is a tropical paradise known for its stunning white-sand beaches, crystal-clear waters, and vibrant coral reefs. It's the perfect destination for relaxation, adventure, and romance. Enjoy luxury resorts, indulge in water sports like snorkeling and diving, and explore the unique marine life. Experience sunset dinners on the beach and the tranquility that comes with this idyllic getaway.",
+    "start_day": {
+      "$date": "2025-12-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Kyoto, Japan",
+    "destination_image": "https://media.istockphoto.com/id/1140986887/photo/woman-kimono-and-umbrella-in-arashiyama-bamboo-forest-kyoto-japan.webp?a=1&b=1&s=612x612&w=0&k=20&c=0A3y_Yhq3mXchuCvkjXjOFHY75TKlXy_gD__7r2Nv6I=",
+    "days": 23,
+    "price": 77000,
+    "description": "Kyoto, the cultural capital of Japan, is renowned for its classical Buddhist temples, as well as gardens, imperial palaces, and traditional wooden houses. Discover the Arashiyama Bamboo Grove, visit the iconic Kinkaku-ji (Golden Pavilion), and experience a traditional tea ceremony. Kyoto is also famous for its cherry blossoms in spring and colorful foliage in autumn, making it a breathtaking destination year-round.",
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Vienna, Austria",
+    "destination_image": "https://images.unsplash.com/photo-1516550893923-42d28e5677af?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Vmllbm5hfGVufDB8fDB8fHww",
+    "days": 6,
+    "price": 59000,
+    "description": "Vienna is a city steeped in history and culture, known for its imperial palaces, elegant coffee houses, and classical music heritage. Explore the grand Schönbrunn Palace, visit the historic St. Stephen's Cathedral, and immerse yourself in the city's rich arts scene, including opera and museums. Savor a slice of Sachertorte in a traditional café and enjoy the vibrant atmosphere of this enchanting city.",
+    "start_day": {
+      "$date": "2024-11-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Lisbon, Portugal",
+    "destination_image": "https://images.unsplash.com/photo-1525207934214-58e69a8f8a3e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TGlzYm9ufGVufDB8fDB8fHww",
+    "days": 11,
+    "price": 51000,
+    "description": "Lisbon is a captivating city that offers a unique blend of tradition and modernity. Known for its colorful neighborhoods, historic tram system, and stunning viewpoints, Lisbon invites you to explore the charming Alfama district, indulge in delicious pastéis de nata, and experience the vibrant nightlife in Bairro Alto. With its rich maritime history, beautiful architecture, and friendly locals, Lisbon is a destination not to be missed.",
+    "start_day": {
+      "$date": "2024-11-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Rio de Janeiro, Brazil",
+    "destination_image": "https://media.istockphoto.com/id/913075602/photo/sugarloaf-mountain-in-rio-de-janeiro-brazil.jpg?s=2048x2048&w=is&k=20&c=l8ao5SVGpEwX7tpXZMcFaPuUTyYXeelPtR5poOLZlwo=",
+    "days": 9,
+    "price": 53000,
+    "description": "Rio de Janeiro is a vibrant city famous for its stunning beaches, lush mountains, and lively culture. Experience the iconic Christ the Redeemer statue, relax on Copacabana and Ipanema beaches, and immerse yourself in the festive atmosphere during Carnaval. Explore the breathtaking views from Sugarloaf Mountain, enjoy samba music, and savor delicious Brazilian cuisine in this energetic city.",
+    "start_day": {
+      "$date": "2024-11-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Amsterdam, Netherlands",
+    "destination_image": "https://media.istockphoto.com/id/1399407952/photo/panoramic-view-of-the-historic-city-center-of-amsterdam-traditional-houses-and-bridges-of.jpg?s=2048x2048&w=is&k=20&c=wsrYIiqoQJo6z3jA2M3XT2X9kV7inLu7igTfA8-SnvU=",
+    "days": 5,
+    "price": 65000,
+    "description": "Amsterdam is known for its picturesque canals, historic architecture, and vibrant arts scene. Explore the world-class museums, including the Rijksmuseum and Van Gogh Museum, stroll through the charming streets, and enjoy a bike ride along the canals. Experience the unique culture, cozy cafés, and vibrant nightlife that make Amsterdam a favorite destination for travelers.",
+    "start_day": {
+      "$date": "2024-11-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Los Angeles, USA",
+    "destination_image": "https://media.istockphoto.com/id/913327824/photo/traffic-in-downtown-los-angeles-california.jpg?s=2048x2048&w=is&k=20&c=EQEbRxNel_3OMbcXtY-PmsgMiWUUtGn6RAJjHfvC4tA=",
+    "days": 6,
+    "price": 56000,
+    "start_day": {
+      "$date": "2024-11-10T18:30:00.000Z"
+    },
+    "description": "Explore the iconic city of Los Angeles with visits to Hollywood, Universal Studios, and Venice Beach. A perfect mix of entertainment and relaxation."
+  },
+  {
+    "destination_name": "Zurich, Switzerland",
+    "destination_image": "https://media.istockphoto.com/id/888221664/photo/downtown-waterfront-in-zurich-switzerland.jpg?s=2048x2048&w=is&k=20&c=qNYCXNMSUSq3N3QG4W39OzT2RzM5mT81IXSPEakyLQ0=",
+    "days": 15,
+    "price": 74000,
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    },
+    "description": "Discover the beauty of Zurich, with its pristine lakes, historical sites, and vibrant culture. Enjoy breathtaking views of the Swiss Alps."
+  },
+  {
+    "destination_name": "Banff, Canada",
+    "destination_image": "https://media.istockphoto.com/id/154956337/photo/bow-river-castle-mountain-banff-national-park-canada-wildflowers-copyspace.jpg?s=2048x2048&w=is&k=20&c=CNPZYB_i220jb56dpJ4NRlTn9cMmfFd4IiOhZbzQIy4=",
+    "days": 8,
+    "price": 55000,
+    "start_day": {
+      "$date": "2025-10-10T18:30:00.000Z"
+    },
+    "description": "Experience the natural beauty of Banff National Park with stunning mountains, crystal-clear lakes, and a rich variety of wildlife."
+  },
+  {
+    "destination_name": "Istanbul, Turkey",
+    "destination_image": "https://media.istockphoto.com/id/458012057/photo/istanbul-turkey.webp?a=1&b=1&s=612x612&w=0&k=20&c=ofu-qq9ShjpwnChsSyizYe6pWgbKiywq-0K5kmXgN0k=",
+    "days": 4,
+    "price": 58000,
+    "start_day": {
+      "$date": "2024-11-10T18:30:00.000Z"
+    },
+    "description": "Immerse yourself in Istanbul's rich history with visits to the Blue Mosque, Hagia Sophia, and bustling bazaars. Discover a unique blend of cultures."
+  },
+  {
+    "destination_name": "Bali, Indonesia",
+    "destination_image": "https://media.istockphoto.com/id/1445548285/photo/tanah-lot-hindu-temple-in-bali-at-sunset.jpg?s=2048x2048&w=is&k=20&c=vkRfzhLVWSjO5TNJAE5SLAmf0Yq_x6NhS4XWefdgk3Y=",
+    "days": 12,
+    "price": 59000,
+    "start_day": {
+      "$date": "2024-12-8T18:30:00.000Z"
+    },
+    "description": "Relax in Bali with its beautiful beaches, stunning temples, and lush greenery. Perfect for a mix of adventure, relaxation, and culture."
+  },
+  {
+    "destination_name": "Sydney, Australia",
+    "destination_image": "https://images.unsplash.com/photo-1524562865630-b991c6c2f261?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c3lkbmV5fGVufDB8fDB8fHww",
+    "days": 8,
+    "price": 55000,
+    "start_day": {
+      "$date": "2024-11-10T18:30:00.000Z"
+    },
+    "description": "Discover the stunning city of Sydney with its iconic Opera House, vibrant harbor, and stunning beaches. A perfect balance of urban and nature."
+  },
+  {
+    "destination_name": "New York City, USA",
+    "destination_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG0dkmx_KcDPI6lE9polttSsItCstVkeYq1w&s",
+    "days": 5,
+    "price": 58000,
+    "start_day": {
+      "$date": "2025-12-10T18:30:00.000Z"
+    },
+    "description": "Explore the vibrant city of New York, visiting Times Square, Central Park, and the Statue of Liberty. The city that never sleeps awaits you."
+  },
+  {
+    "destination_name": "Dubai, UAE",
+    "destination_image": "https://media.istockphoto.com/id/183371461/photo/city-lights-in-dubai-at-sunset.jpg?s=2048x2048&w=is&k=20&c=JsfF1EnlOm5ll7JvDudTMqiSGsHAiSUyfBBdWCNtJLI=",
+    "days": 10,
+    "price": 77000,
+    "description": "Experience the luxury and innovation of Dubai, a vibrant city known for its towering skyscrapers, luxurious shopping, and thrilling desert safaris.",
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "London, UK",
+    "destination_image": "https://media.istockphoto.com/id/477692929/photo/london-landmarks.webp?a=1&b=1&s=612x612&w=0&k=20&c=m6RO2Wd-jQ2mZ5XMbuUYHZiiMH-mhdvltufcGy293qI=",
+    "days": 6,
+    "price": 51000,
+    "description": "Discover the historic landmarks and modern marvels of London, from the iconic Tower Bridge to the bustling streets of Soho.",
+    "start_day": {
+      "$date": "2025-2-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Rome, Italy",
+    "destination_image": "https://media.istockphoto.com/id/683962492/photo/sunrise-at-colosseum-rome-italy.jpg?s=2048x2048&w=is&k=20&c=jPMg6ganFwPyBRQ2a7z2TcMikF6kILY1TkKnMRcsUXA=",
+    "days": 13,
+    "price": 103000,
+    "description": "Step into history with a visit to Rome, where ancient ruins, vibrant streets, and world-renowned cuisine await.",
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Singapore",
+    "destination_image": "https://media.istockphoto.com/id/502058307/photo/singapore-city-skyline-at-sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=w-Y5Sztk3it52DypS-k5dczJFTI-xASrP1NSRRlYndQ=",
+    "days": 10,
+    "price": 52000,
+    "description": "Experience the blend of cultures in Singapore, where futuristic cityscapes meet lush green spaces and diverse culinary delights.",
+    "start_day": {
+      "$date": "2025-2-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Prague, Czech Republic",
+    "destination_image": "https://media.istockphoto.com/id/628365610/photo/vltava-river-and-charles-bridge-in-prague.jpg?s=2048x2048&w=is&k=20&c=QlwRBFjWB2AEztzYgSiZ84LJzCveQQjpUoQ6_NHHxcA=",
+    "days": 7,
+    "price": 58000,
+    "description": "Explore the fairy-tale city of Prague, with its beautiful gothic architecture, charming river views, and historical Old Town.",
+    "start_day": {
+      "$date": "2025-3-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Venice, Italy",
+    "destination_image": "https://media.istockphoto.com/id/911570904/photo/view-of-venices-grand-canal.webp?a=1&b=1&s=612x612&w=0&k=20&c=JKgltRdcvC-l6j88GlbyNz7ikY38P0zNJHrWhU3sHlQ=",
+    "days": 5,
+    "price": 51000,
+    "description": "Sail through the enchanting canals of Venice, where each turn reveals stunning architecture, charming alleyways, and rich history.",
+    "start_day": {
+      "$date": "2025-5-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Maui, Hawaii",
+    "destination_image": "https://media.istockphoto.com/id/117146711/photo/a-tropical-beach-sunset-on-a-beautiful-day.jpg?s=2048x2048&w=is&k=20&c=w5XV8P4O4CTwxnm6GU278BeJw7TlQbLPo54kJKkumxY=",
+    "days": 5,
+    "price": 54000,
+    "description": "Relax on the stunning beaches of Maui, where scenic landscapes, warm waters, and island culture create a tropical paradise.",
+    "start_day": {
+      "$date": "2025-1-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Santorini, Greece",
+    "destination_image": "https://plus.unsplash.com/premium_photo-1661964149725-fbf14eabd38c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "days": 9,
+    "price": 44000,
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    },
+    "description": "Greece, officially the Hellenic Republic, is a country in Southeast Europe. Located on the southern tip of the Balkan peninsula, Greece shares land borders with Albania to the northwest, North Macedonia and Bulgaria to the north, and Turkey to the east. The Aegean Sea lies to the east of the mainland, the Ionian Sea to the west, and the Sea of Crete and the Mediterranean Sea to the south. Greece has the longest coastline on the Mediterranean Basin, featuring thousands of islands. The country comprises nine traditional geographic regions, and has a population of over 10.4 million. Athens is the nation's capital and largest city, followed by Thessaloniki and Patras."
+  },
+  {
+    "destination_name": "Santorini, Greece",
+    "destination_image": "https://plus.unsplash.com/premium_photo-1661964149725-fbf14eabd38c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "days": 10,
+    "price": 54000,
+    "start_day": {
+      "$date": "2025-1-10T18:30:00.000Z"
+    },
+    "description": "Greece, officially the Hellenic Republic, is a country in Southeast Europe. Located on the southern tip of the Balkan peninsula, Greece shares land borders with Albania to the northwest, North Macedonia and Bulgaria to the north, and Turkey to the east. The Aegean Sea lies to the east of the mainland, the Ionian Sea to the west, and the Sea of Crete and the Mediterranean Sea to the south. Greece has the longest coastline on the Mediterranean Basin, featuring thousands of islands. The country comprises nine traditional geographic regions, and has a population of over 10.4 million. Athens is the nation's capital and largest city, followed by Thessaloniki and Patras."
+  },
+  {
+    "destination_name": "Barcelona, Spain",
+    "destination_image": "https://images.unsplash.com/photo-1464790719320-516ecd75af6c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFyY2Vsb25hfGVufDB8fDB8fHww",
+    "days": 7,
+    "price": 66000,
+    "description": "Barcelona is a vibrant city known for its unique architecture, rich history, and lively atmosphere. Explore the stunning Sagrada Familia, wander through the Gothic Quarter, and relax on the beautiful beaches. Don't miss the vibrant markets, delicious tapas, and the artistic heritage left by Antoni Gaudí. Experience the energetic nightlife and cultural events that make Barcelona a must-visit destination.",
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Maldives",
+    "destination_image": "https://media.istockphoto.com/id/1348963437/photo/foot-path-to-jetty.jpg?s=1024x1024&w=is&k=20&c=dOF_XGVk3S8M1gHbCXQ7l05-5FqMlgsV2XCtNTLAjqc=",
+    "days": 4,
+    "price": 47000,
+    "description": "The Maldives is a tropical paradise known for its stunning white-sand beaches, crystal-clear waters, and vibrant coral reefs. It's the perfect destination for relaxation, adventure, and romance. Enjoy luxury resorts, indulge in water sports like snorkeling and diving, and explore the unique marine life. Experience sunset dinners on the beach and the tranquility that comes with this idyllic getaway.",
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Kyoto, Japan",
+    "destination_image": "https://media.istockphoto.com/id/1140986887/photo/woman-kimono-and-umbrella-in-arashiyama-bamboo-forest-kyoto-japan.webp?a=1&b=1&s=612x612&w=0&k=20&c=0A3y_Yhq3mXchuCvkjXjOFHY75TKlXy_gD__7r2Nv6I=",
+    "days": 10,
+    "price": 57000,
+    "description": "Kyoto, the cultural capital of Japan, is renowned for its classical Buddhist temples, as well as gardens, imperial palaces, and traditional wooden houses. Discover the Arashiyama Bamboo Grove, visit the iconic Kinkaku-ji (Golden Pavilion), and experience a traditional tea ceremony. Kyoto is also famous for its cherry blossoms in spring and colorful foliage in autumn, making it a breathtaking destination year-round.",
+    "start_day": {
+      "$date": "2025-1-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Vienna, Austria",
+    "destination_image": "https://images.unsplash.com/photo-1516550893923-42d28e5677af?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Vmllbm5hfGVufDB8fDB8fHww",
+    "days": 6,
+    "price": 59000,
+    "description": "Vienna is a city steeped in history and culture, known for its imperial palaces, elegant coffee houses, and classical music heritage. Explore the grand Schönbrunn Palace, visit the historic St. Stephen's Cathedral, and immerse yourself in the city's rich arts scene, including opera and museums. Savor a slice of Sachertorte in a traditional café and enjoy the vibrant atmosphere of this enchanting city.",
+    "start_day": {
+      "$date": "2024-12-9T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Lisbon, Portugal",
+    "destination_image": "https://images.unsplash.com/photo-1525207934214-58e69a8f8a3e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8TGlzYm9ufGVufDB8fDB8fHww",
+    "days": 11,
+    "price": 51000,
+    "description": "Lisbon is a captivating city that offers a unique blend of tradition and modernity. Known for its colorful neighborhoods, historic tram system, and stunning viewpoints, Lisbon invites you to explore the charming Alfama district, indulge in delicious pastéis de nata, and experience the vibrant nightlife in Bairro Alto. With its rich maritime history, beautiful architecture, and friendly locals, Lisbon is a destination not to be missed.",
+    "start_day": {
+      "$date": "2024-12-8T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Rio de Janeiro, Brazil",
+    "destination_image": "https://media.istockphoto.com/id/913075602/photo/sugarloaf-mountain-in-rio-de-janeiro-brazil.jpg?s=2048x2048&w=is&k=20&c=l8ao5SVGpEwX7tpXZMcFaPuUTyYXeelPtR5poOLZlwo=",
+    "days": 9,
+    "price": 53000,
+    "description": "Rio de Janeiro is a vibrant city famous for its stunning beaches, lush mountains, and lively culture. Experience the iconic Christ the Redeemer statue, relax on Copacabana and Ipanema beaches, and immerse yourself in the festive atmosphere during Carnaval. Explore the breathtaking views from Sugarloaf Mountain, enjoy samba music, and savor delicious Brazilian cuisine in this energetic city.",
+    "start_day": {
+      "$date": "2024-12-6T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Amsterdam, Netherlands",
+    "destination_image": "https://media.istockphoto.com/id/1399407952/photo/panoramic-view-of-the-historic-city-center-of-amsterdam-traditional-houses-and-bridges-of.jpg?s=2048x2048&w=is&k=20&c=wsrYIiqoQJo6z3jA2M3XT2X9kV7inLu7igTfA8-SnvU=",
+    "days": 4,
+    "price": 55000,
+    "description": "Amsterdam is known for its picturesque canals, historic architecture, and vibrant arts scene. Explore the world-class museums, including the Rijksmuseum and Van Gogh Museum, stroll through the charming streets, and enjoy a bike ride along the canals. Experience the unique culture, cozy cafés, and vibrant nightlife that make Amsterdam a favorite destination for travelers.",
+    "start_day": {
+      "$date": "2024-12-5T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Los Angeles, USA",
+    "destination_image": "https://media.istockphoto.com/id/913327824/photo/traffic-in-downtown-los-angeles-california.jpg?s=2048x2048&w=is&k=20&c=EQEbRxNel_3OMbcXtY-PmsgMiWUUtGn6RAJjHfvC4tA=",
+    "days": 6,
+    "price": 56000,
+    "start_day": {
+      "$date": "2024-12-4T18:30:00.000Z"
+    },
+    "description": "Explore the iconic city of Los Angeles with visits to Hollywood, Universal Studios, and Venice Beach. A perfect mix of entertainment and relaxation."
+  },
+  {
+    "destination_name": "Zurich, Switzerland",
+    "destination_image": "https://media.istockphoto.com/id/888221664/photo/downtown-waterfront-in-zurich-switzerland.jpg?s=2048x2048&w=is&k=20&c=qNYCXNMSUSq3N3QG4W39OzT2RzM5mT81IXSPEakyLQ0=",
+    "days": 12,
+    "price": 54000,
+    "start_day": {
+      "$date": "2024-12-3T18:30:00.000Z"
+    },
+    "description": "Discover the beauty of Zurich, with its pristine lakes, historical sites, and vibrant culture. Enjoy breathtaking views of the Swiss Alps."
+  },
+  {
+    "destination_name": "Banff, Canada",
+    "destination_image": "https://media.istockphoto.com/id/154956337/photo/bow-river-castle-mountain-banff-national-park-canada-wildflowers-copyspace.jpg?s=2048x2048&w=is&k=20&c=CNPZYB_i220jb56dpJ4NRlTn9cMmfFd4IiOhZbzQIy4=",
+    "days": 8,
+    "price": 55000,
+    "start_day": {
+      "$date": "2024-12-2T18:30:00.000Z"
+    },
+    "description": "Experience the natural beauty of Banff National Park with stunning mountains, crystal-clear lakes, and a rich variety of wildlife."
+  },
+  {
+    "destination_name": "Istanbul, Turkey",
+    "destination_image": "https://media.istockphoto.com/id/458012057/photo/istanbul-turkey.webp?a=1&b=1&s=612x612&w=0&k=20&c=ofu-qq9ShjpwnChsSyizYe6pWgbKiywq-0K5kmXgN0k=",
+    "days": 4,
+    "price": 58000,
+    "start_day": {
+      "$date": "2024-12-1T18:30:00.000Z"
+    },
+    "description": "Immerse yourself in Istanbul's rich history with visits to the Blue Mosque, Hagia Sophia, and bustling bazaars. Discover a unique blend of cultures."
+  },
+  {
+    "destination_name": "Bali, Indonesia",
+    "destination_image": "https://media.istockphoto.com/id/1445548285/photo/tanah-lot-hindu-temple-in-bali-at-sunset.jpg?s=2048x2048&w=is&k=20&c=vkRfzhLVWSjO5TNJAE5SLAmf0Yq_x6NhS4XWefdgk3Y=",
+    "days": 12,
+    "price": 59000,
+    "start_day": {
+      "$date": "2025-12-10T18:30:00.000Z"
+    },
+    "description": "Relax in Bali with its beautiful beaches, stunning temples, and lush greenery. Perfect for a mix of adventure, relaxation, and culture."
+  },
+  {
+    "destination_name": "Sydney, Australia",
+    "destination_image": "https://images.unsplash.com/photo-1524562865630-b991c6c2f261?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8c3lkbmV5fGVufDB8fDB8fHww",
+    "days": 8,
+    "price": 55000,
+    "start_day": {
+      "$date": "2025-10-10T18:30:00.000Z"
+    },
+    "description": "Discover the stunning city of Sydney with its iconic Opera House, vibrant harbor, and stunning beaches. A perfect balance of urban and nature."
+  },
+  {
+    "destination_name": "New York City, USA",
+    "destination_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG0dkmx_KcDPI6lE9polttSsItCstVkeYq1w&s",
+    "days": 5,
+    "price": 58000,
+    "start_day": {
+      "$date": "2025-9-10T18:30:00.000Z"
+    },
+    "description": "Explore the vibrant city of New York, visiting Times Square, Central Park, and the Statue of Liberty. The city that never sleeps awaits you."
+  },
+  {
+    "destination_name": "Dubai, UAE",
+    "destination_image": "https://media.istockphoto.com/id/183371461/photo/city-lights-in-dubai-at-sunset.jpg?s=2048x2048&w=is&k=20&c=JsfF1EnlOm5ll7JvDudTMqiSGsHAiSUyfBBdWCNtJLI=",
+    "days": 9,
+    "price": 57000,
+    "description": "Experience the luxury and innovation of Dubai, a vibrant city known for its towering skyscrapers, luxurious shopping, and thrilling desert safaris.",
+    "start_day": {
+      "$date": "2025-7-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "London, UK",
+    "destination_image": "https://media.istockphoto.com/id/477692929/photo/london-landmarks.webp?a=1&b=1&s=612x612&w=0&k=20&c=m6RO2Wd-jQ2mZ5XMbuUYHZiiMH-mhdvltufcGy293qI=",
+    "days": 7,
+    "price": 61000,
+    "description": "Discover the historic landmarks and modern marvels of London, from the iconic Tower Bridge to the bustling streets of Soho.",
+    "start_day": {
+      "$date": "2025-6-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Rome, Italy",
+    "destination_image": "https://media.istockphoto.com/id/683962492/photo/sunrise-at-colosseum-rome-italy.jpg?s=2048x2048&w=is&k=20&c=jPMg6ganFwPyBRQ2a7z2TcMikF6kILY1TkKnMRcsUXA=",
+    "days": 10,
+    "price": 50000,
+    "description": "Step into history with a visit to Rome, where ancient ruins, vibrant streets, and world-renowned cuisine await.",
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Singapore",
+    "destination_image": "https://media.istockphoto.com/id/502058307/photo/singapore-city-skyline-at-sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=w-Y5Sztk3it52DypS-k5dczJFTI-xASrP1NSRRlYndQ=",
+    "days": 10,
+    "price": 52000,
+    "description": "Experience the blend of cultures in Singapore, where futuristic cityscapes meet lush green spaces and diverse culinary delights.",
+    "start_day": {
+      "$date": "2024-12-9T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Prague, Czech Republic",
+    "destination_image": "https://media.istockphoto.com/id/628365610/photo/vltava-river-and-charles-bridge-in-prague.jpg?s=2048x2048&w=is&k=20&c=QlwRBFjWB2AEztzYgSiZ84LJzCveQQjpUoQ6_NHHxcA=",
+    "days": 7,
+    "price": 58000,
+    "description": "Explore the fairy-tale city of Prague, with its beautiful gothic architecture, charming river views, and historical Old Town.",
+    "start_day": {
+      "$date": "2024-12-9T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Venice, Italy",
+    "destination_image": "https://media.istockphoto.com/id/911570904/photo/view-of-venices-grand-canal.webp?a=1&b=1&s=612x612&w=0&k=20&c=JKgltRdcvC-l6j88GlbyNz7ikY38P0zNJHrWhU3sHlQ=",
+    "days": 5,
+    "price": 51000,
+    "description": "Sail through the enchanting canals of Venice, where each turn reveals stunning architecture, charming alleyways, and rich history.",
+    "start_day": {
+      "$date": "2025-1-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Maui, Hawaii",
+    "destination_image": "https://media.istockphoto.com/id/117146711/photo/a-tropical-beach-sunset-on-a-beautiful-day.jpg?s=2048x2048&w=is&k=20&c=w5XV8P4O4CTwxnm6GU278BeJw7TlQbLPo54kJKkumxY=",
+    "days": 5,
+    "price": 54000,
+    "description": "Relax on the stunning beaches of Maui, where scenic landscapes, warm waters, and island culture create a tropical paradise.",
+    "start_day": {
+      "$date": "2025-10-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "London, UK",
+    "destination_image": "https://media.istockphoto.com/id/477692929/photo/london-landmarks.webp?a=1&b=1&s=612x612&w=0&k=20&c=m6RO2Wd-jQ2mZ5XMbuUYHZiiMH-mhdvltufcGy293qI=",
+    "days": 7,
+    "price": 61000,
+    "description": "Discover the historic landmarks and modern marvels of London, from the iconic Tower Bridge to the bustling streets of Soho.",
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Rome, Italy",
+    "destination_image": "https://media.istockphoto.com/id/683962492/photo/sunrise-at-colosseum-rome-italy.jpg?s=2048x2048&w=is&k=20&c=jPMg6ganFwPyBRQ2a7z2TcMikF6kILY1TkKnMRcsUXA=",
+    "days": 10,
+    "price": 50000,
+    "description": "Step into history with a visit to Rome, where ancient ruins, vibrant streets, and world-renowned cuisine await.",
+    "start_day": {
+      "$date": "2024-11-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Singapore",
+    "destination_image": "https://media.istockphoto.com/id/502058307/photo/singapore-city-skyline-at-sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=w-Y5Sztk3it52DypS-k5dczJFTI-xASrP1NSRRlYndQ=",
+    "days": 9,
+    "price": 51000,
+    "description": "Experience the blend of cultures in Singapore, where futuristic cityscapes meet lush green spaces and diverse culinary delights.",
+    "start_day": {
+      "$date": "2024-12-10T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Prague, Czech Republic",
+    "destination_image": "https://media.istockphoto.com/id/628365610/photo/vltava-river-and-charles-bridge-in-prague.jpg?s=2048x2048&w=is&k=20&c=QlwRBFjWB2AEztzYgSiZ84LJzCveQQjpUoQ6_NHHxcA=",
+    "days": 7,
+    "price": 58000,
+    "description": "Explore the fairy-tale city of Prague, with its beautiful gothic architecture, charming river views, and historical Old Town.",
+    "start_day": {
+      "$date": "2024-12-9T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Venice, Italy",
+    "destination_image": "https://media.istockphoto.com/id/911570904/photo/view-of-venices-grand-canal.webp?a=1&b=1&s=612x612&w=0&k=20&c=JKgltRdcvC-l6j88GlbyNz7ikY38P0zNJHrWhU3sHlQ=",
+    "days": 5,
+    "price": 51000,
+    "description": "Sail through the enchanting canals of Venice, where each turn reveals stunning architecture, charming alleyways, and rich history.",
+    "start_day": {
+      "$date": "2024-12-8T18:30:00.000Z"
+    }
+  },
+  {
+    "destination_name": "Maui, Hawaii",
+    "destination_image": "https://media.istockphoto.com/id/117146711/photo/a-tropical-beach-sunset-on-a-beautiful-day.jpg?s=2048x2048&w=is&k=20&c=w5XV8P4O4CTwxnm6GU278BeJw7TlQbLPo54kJKkumxY=",
+    "days": 5,
+    "price": 54000,
+    "description": "Relax on the stunning beaches of Maui, where scenic landscapes, warm waters, and island culture create a tropical paradise.",
+    "start_day": {
+      "$date": "2024-12-7T18:30:00.000Z"
+    }
+  }
+]
